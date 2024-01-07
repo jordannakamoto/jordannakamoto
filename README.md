@@ -65,3 +65,6 @@ I'm Jordan, an aspiring Software Developer. I enjoy the pursuit of life-long lea
 <code><a href="https://www.diagrams.net/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Diagrams.net_Logo.svg/800px-Diagrams.net_Logo.svg.png" alt="draw.io"></a></code>
 </p>
 
+## My LeetCode Journey
+![](https://leetcard.jacoblin.cool/jordannakamoto?ext=activity)
+
