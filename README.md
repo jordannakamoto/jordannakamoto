@@ -35,7 +35,7 @@ I'm Jordan, an aspiring Software Developer. I enjoy the pursuit of life-long lea
   </tr>
 </table>
 
-## - 📚 Some of My Recently Used Libraries/Languages
+## - 📚 Some of the Libraries/Languages I've Used Recently
 <p> 
 <code><a href="https://reactnative.dev/"><img width="40" src="https://upload.wikimedia.org/wikipedia/commons/1/18/React_Native_Logo.png" alt="React Native"></a></code>
 <code><a href="https://graphql.org/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg" alt="GraphQL"></a></code>
