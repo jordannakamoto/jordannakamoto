@@ -14,7 +14,7 @@ I enjoy the pursuit of life-long learning and the appreciation of design and eng
   <tr>
     <th><a href="https://github.com/ssudevteam/keeper/tree/main">Keeper Mobile App</a></th>
     <td>App Design and User Interface Code </td>
-    <td>My Team placed 2nd in the School Hackathon with this Beekeeping Operations App.</td>
+    <td>React-Native Mobile App for Beekeeping Operations.</td>
   </tr>
   <tr>
     <th><a href="https://github.com/jordannakamoto/RegEx-Utilities">Regex Utilities</a></th>
