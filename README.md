@@ -24,7 +24,7 @@ I enjoy the pursuit of life-long learning and the appreciation of design and eng
 <tr>
     <th><a href="https://www.youtube.com/watch?v=XkhGd5Hyg9E">Untold Territory</a></th>
     <td>Environment Creation, Inventory and Interaction Systems Programming</td>
-    <td>Exploration-Adventure game in Unreal Engine 5. Set on a Treasure Island.</td>
+    <td>3-D Exploration/Adventure game in Unreal Engine 5. Set on a Treasure Island.</td>
   </tr>
 </table>
 
