@@ -19,7 +19,7 @@ I enjoy the pursuit of life-long learning and the appreciation of design and eng
   <tr>
     <th><a href="https://github.com/jordannakamoto/RegEx-Utilities">Regex Utilities</a></th>
     <td>Conversion and Testing Code</td>
-    <td>Final Project for my Theory of Computation Class, Regular Expression string tester for pattern recognition</td>
+    <td>Final Project for my Theory of Computation Class, Regular Expression string testing for pattern recognition/validation</td>
   </tr>
 <tr>
     <th><a href="https://www.youtube.com/watch?v=XkhGd5Hyg9E">Untold Territory</a></th>
