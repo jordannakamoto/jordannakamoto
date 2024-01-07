@@ -1,6 +1,5 @@
-### Hi there 👋
-I'm Jordan, an aspiring Software Developer from the California Coast.
-<br> I enjoy the pursuit of life-long learning and the appreciation of design and engineering 🌎.
+### I'm Jordan, an aspiring Software Developer from the California Coast.✌️
+I enjoy the pursuit of life-long learning and the appreciation of design and engineering.
 
 ![Screenshot 2024-01-06 at 7 22 41 PM(1)](https://github.com/jordannakamoto/jordannakamoto/assets/18277544/3767179e-de6f-4b7c-a176-d2d73c66f6f3)
 
