@@ -1,4 +1,5 @@
 ### Hi there 👋
+<img width="1355" alt="Screenshot 2024-01-06 at 7 22 41 PM" src="https://github.com/jordannakamoto/jordannakamoto/assets/18277544/068341f2-b8d7-48ac-a556-3944e6402ca0">
 
 ## - 🔭 I'm currently working on
 
