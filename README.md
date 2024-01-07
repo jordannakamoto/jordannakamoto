@@ -12,8 +12,8 @@ I enjoy the pursuit of life-long learning and the appreciation of design and eng
     <th>SEO Content Automation</th>
   </tr>
   <tr>
-    <td>I'm in the beginning stages of finding helpful use cases for GPT-4 in desktop productivity apps.</td>
-    <td>I'm co-creating a UI and Raspberry Pi programming interface with my University for a lunar excavation competition in collaboration with Electrical Engineering students.</td>
+    <td>I'm making desktop apps that utilize GPT-4 for productivity.</td>
+    <td>I'm co-creating a UI and Raspberry Pi control interface with my University for a lunar excavation competition in collaboration with Electrical Engineering students.</td>
     <td>I'm helping a client with the process of seasonal SEO updates by automating the re-writing of web pages with trending terms.</td>
   </tr>
   <tr>
