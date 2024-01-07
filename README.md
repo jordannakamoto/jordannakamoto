@@ -3,35 +3,28 @@ I enjoy the pursuit of life-long learning and the appreciation of design and eng
 
 ![Screenshot 2024-01-06 at 7 22 41 PM(1)](https://github.com/jordannakamoto/jordannakamoto/assets/18277544/3767179e-de6f-4b7c-a176-d2d73c66f6f3)
 
-## - 🔭 I'm currently working on
+## - 🔭 Current Portfolio
 
 <table>
-  <tr>
-    <th>AI Productivity Tools</th>
-    <th>SSU Lunabotics NASA Competition</th>
-    <th>SEO Content Automation</th>
+<tr>
+    <th>Project</th>
+    <td>My Contribution</td>
+    <td>Summary</td>
   </tr>
   <tr>
-    <td>I'm making desktop apps that utilize GPT-4 for productivity.</td>
-    <td>I'm co-creating a UI and Raspberry Pi control interface with my University for a lunar excavation competition in collaboration with Electrical Engineering students.</td>
-    <td>I'm helping a client with the process of seasonal SEO updates by automating the re-writing of web pages with trending terms.</td>
+    <th><a href="https://github.com/ssudevteam/keeper/tree/main">Keeper Mobile App</a></th>
+    <td>App Design and User Interface Code </td>
+    <td>My Team placed 2nd in the School Hackathon with this Beekeeping Operations App.</td>
   </tr>
   <tr>
-    <td>
-      <a href="https://github.com/jordannakamoto/TaskApp">
-        <img width="250" alt="Screenshot 2024-01-06 at 8 05 21 PM" src="https://github.com/jordannakamoto/jordannakamoto/assets/18277544/9dde600e-71bd-45d1-b6bf-c063c53301b3">
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/jordannakamoto/ssunasarover">
-        <img width="250" alt="Screenshot 2024-01-06 at 8 13 29 PM" src="https://github.com/jordannakamoto/jordannakamoto/assets/18277544/5b7df61e-f4ef-417b-a849-c6d12720a89c">
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/jordannakamoto/seorefresher">
-        No Image
-      </a>
-    </td>
+    <th><a href="https://github.com/jordannakamoto/RegEx-Utilities">Regex Utilities</a></th>
+    <td>Conversion and Testing Code</td>
+    <td>Final Project for my Theory of Computation Class, Regular Expression string tester for pattern recognition</td>
+  </tr>
+<tr>
+    <th><a href="https://www.youtube.com/watch?v=XkhGd5Hyg9E">Untold Territory</a></th>
+    <td>Environment Creation, Inventory and Interaction Systems Programming</td>
+    <td>Exploration-Adventure game in Unreal Engine 5. Set on a Treasure Island.</td>
   </tr>
 </table>
 
