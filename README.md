@@ -3,7 +3,7 @@ I enjoy the pursuit of life-long learning and the appreciation of design and eng
 
 ![Screenshot 2024-01-06 at 7 22 41 PM(1)](https://github.com/jordannakamoto/jordannakamoto/assets/18277544/3767179e-de6f-4b7c-a176-d2d73c66f6f3)
 
-## - 🔭 Current Portfolio
+## - 🔭 Recent Portfolio
 
 <table>
 <tr>
@@ -29,7 +29,7 @@ I enjoy the pursuit of life-long learning and the appreciation of design and eng
 </table>
 
 
-## - 📚 Some of the Libraries/Languages I've Used Recently
+## - 📚 Some of the Libraries/Languages I've Studied
 <p> 
 <code><a href="https://reactnative.dev/"><img width="40" src="https://upload.wikimedia.org/wikipedia/commons/1/18/React_Native_Logo.png" alt="React Native"></a></code>
 <code><a href="https://graphql.org/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg" alt="GraphQL"></a></code>
