@@ -12,7 +12,7 @@ I enjoy the pursuit of life-long learning and the appreciation of design and eng
     <td>Summary</td>
   </tr>
   <tr>
-    <th><a href="https://github.com/ssudevteam/keeper/tree/main">Keeper Mobile App</a></th>
+    <th><a href="https://github.com/ssudevteam/keeper/tree/main">Keeper</a></th>
     <td>App Design and User Interface Code </td>
     <td>React-Native Mobile App for Beekeeping Operations.</td>
   </tr>
