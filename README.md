@@ -1,28 +1,30 @@
 ### Hi there 👋
-<img width="1355" alt="Screenshot 2024-01-06 at 7 22 41 PM" src="https://github.com/jordannakamoto/jordannakamoto/assets/18277544/068341f2-b8d7-48ac-a556-3944e6402ca0">
+I'm Jordan, an aspiring Software Developer. I enjoy the pursuit of life-long learning and the appreciation of design and engineering 🌎.
+
+![Screenshot 2024-01-06 at 7 22 41 PM(1)](https://github.com/jordannakamoto/jordannakamoto/assets/18277544/3767179e-de6f-4b7c-a176-d2d73c66f6f3)
 
 ## - 🔭 I'm currently working on
 
 <table style="width:100%; table-layout:fixed">
   <tr>
-    <th>My Small 2D Game Engine</th>
-    <th>A RISK tabletop game implementation</th>
-    <th>My Small 2D Game Engine, but in C++</th>
+    <th>AI Productivity Tools</th>
+    <th>SSU Lunabotics NASA Competition</th>
+    <th>SEO Content Refresher</th>
   </tr>
   <tr>
     <td>
-		<a href="https://github.com/aeris170/DoaEngine">
-			<img src="https://i.hizliresim.com/kcX3Xz.png" />
+		<a href="https://github.com/jordannakamoto/TaskApp">
+			<img width="250" alt="Screenshot 2024-01-06 at 8 05 21 PM" src="https://github.com/jordannakamoto/jordannakamoto/assets/18277544/9dde600e-71bd-45d1-b6bf-c063c53301b3">
 		</a>
 	</td>
     <td>
-		<a href="https://github.com/aeris170/RISK-Digital-Cut">
-			<img src="https://repository-images.githubusercontent.com/169880359/d106c280-9780-11e9-983c-0b51e49af958" />
+		<a href="https://github.com/jordannakamoto/ssunasarover">
+<img width="250" alt="Screenshot 2024-01-06 at 8 13 29 PM" src="https://github.com/jordannakamoto/jordannakamoto/assets/18277544/5b7df61e-f4ef-417b-a849-c6d12720a89c">
 		</a>
 	</td>
     <td>
-		<a href="https://github.com/chroma-works/NeoDoa">
-			<img src="https://user-images.githubusercontent.com/25724155/72576385-9ca35100-38e0-11ea-9f10-5de3852e6df3.png" />
+		<a href="https://github.com/jordannakamoto/seorefresher">
+			No Image
 		</a>
 	</td>
   </tr>
