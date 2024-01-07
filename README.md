@@ -62,5 +62,5 @@ I'm Jordan, an aspiring Software Developer from the California Coast.
 </p>
 
 ## My LeetCode Journey
-![](https://leetcard.jacoblin.cool/jordannakamoto?ext=activity)
+![](https://leetcard.jacoblin.cool/jordannakamoto?theme=unicorn)
 
