@@ -6,35 +6,36 @@ I'm Jordan, an aspiring Software Developer from the California Coast.
 
 ## - 🔭 I'm currently working on
 
-<table style="width:100%; table-layout:fixed">
+<table>
   <tr>
     <th>AI Productivity Tools</th>
     <th>SSU Lunabotics NASA Competition</th>
     <th>SEO Content Automation</th>
   </tr>
   <tr>
-  <tr>
     <td>I'm in the beginning stages of finding helpful use cases for GPT-4 in desktop productivity apps.</td>
     <td>I'm co-creating a UI and Raspberry Pi programming interface with my University for a lunar excavation competition in collaboration with Electrical Engineering students.</td>
-    <td>I'm helping a client with the process of seasonal SEO updates by automating the re-writing of web pages with trending terms</td>
+    <td>I'm helping a client with the process of seasonal SEO updates by automating the re-writing of web pages with trending terms.</td>
   </tr>
+  <tr>
     <td>
-		<a href="https://github.com/jordannakamoto/TaskApp">
-			<img width="250" alt="Screenshot 2024-01-06 at 8 05 21 PM" src="https://github.com/jordannakamoto/jordannakamoto/assets/18277544/9dde600e-71bd-45d1-b6bf-c063c53301b3">
-		</a>
-	</td>
+      <a href="https://github.com/jordannakamoto/TaskApp">
+        <img width="250" alt="Screenshot 2024-01-06 at 8 05 21 PM" src="https://github.com/jordannakamoto/jordannakamoto/assets/18277544/9dde600e-71bd-45d1-b6bf-c063c53301b3">
+      </a>
+    </td>
     <td>
-		<a href="https://github.com/jordannakamoto/ssunasarover">
-<img width="250" alt="Screenshot 2024-01-06 at 8 13 29 PM" src="https://github.com/jordannakamoto/jordannakamoto/assets/18277544/5b7df61e-f4ef-417b-a849-c6d12720a89c">
-		</a>
-	</td>
+      <a href="https://github.com/jordannakamoto/ssunasarover">
+        <img width="250" alt="Screenshot 2024-01-06 at 8 13 29 PM" src="https://github.com/jordannakamoto/jordannakamoto/assets/18277544/5b7df61e-f4ef-417b-a849-c6d12720a89c">
+      </a>
+    </td>
     <td>
-		<a href="https://github.com/jordannakamoto/seorefresher">
-			No Image
-		</a>
-	</td>
+      <a href="https://github.com/jordannakamoto/seorefresher">
+        No Image
+      </a>
+    </td>
   </tr>
 </table>
+
 
 ## - 📚 Some of the Libraries/Languages I've Used Recently
 <p> 
