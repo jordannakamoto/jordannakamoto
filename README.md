@@ -29,7 +29,7 @@ I enjoy the pursuit of life-long learning and the appreciation of design and eng
 <tr>
     <th><a href="https://github.com/jordannakamoto/ssunasarover">SSU Lunabotics</a></th>
     <td>3D UI and Control Interface</td>
-    <td>Space Rover for University NASA Competition: RaspberryPi, React, Flask, ThreeJS</td>
+    <td>Space Rover for University NASA Competition: RaspberryPi, Flask, React, ThreeJS</td>
   </tr>
 </table>
 
