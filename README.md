@@ -26,10 +26,15 @@ I enjoy the pursuit of life-long learning and the appreciation of design and eng
     <td>Environment Creation, Inventory and Interaction Systems Programming</td>
     <td>3D Exploration/Adventure game in Unreal Engine 5. Set on a Treasure Island.</td>
   </tr>
+<tr>
+    <th><a href="https://github.com/jordannakamoto/ssunasarover">SSU Lunabotics</a></th>
+    <td>3D UI and Control Interface</td>
+    <td>Space Rover for University NASA Competition: RaspberryPi, React, Flask, ThreeJS</td>
+  </tr>
 </table>
 
 
-## - 📚 Some of the Libraries/Languages I've Studied
+## - 📚 Some of the Libraries/Languages I Work With
 <p> 
 <code><a href="https://reactnative.dev/"><img width="40" src="https://upload.wikimedia.org/wikipedia/commons/1/18/React_Native_Logo.png" alt="React Native"></a></code>
 <code><a href="https://graphql.org/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg" alt="GraphQL"></a></code>
@@ -55,5 +60,5 @@ I enjoy the pursuit of life-long learning and the appreciation of design and eng
 </p>
 
 ## My LeetCode Journey
-![](https://leetcard.jacoblin.cool/jordannakamoto?theme=unicorn)
+![](https://leetcard.jacoblin.cool/jordannakamoto?theme=light)
 
