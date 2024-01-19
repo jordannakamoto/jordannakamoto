@@ -12,9 +12,9 @@ I enjoy the pursuit of life-long learning and the appreciation of design and eng
     <td>Summary</td>
   </tr>
   <tr>
-    <th><a href="https://github.com/ssudevteam/keeper/tree/main">Keeper</a></th>
-    <td>App Design and User Interface Code </td>
-    <td>React-Native Mobile App for Beekeeping Operations.</td>
+    <th><a href="https://github.com/jordannakamoto/productivity-app">Assignments Tracker</a></th>
+    <td>Current Project</td>
+    <td>Desktop App in Tauri and NextJS. For tracking assignments during a school semester.</td>
   </tr>
   <tr>
     <th><a href="https://github.com/jordannakamoto/RegEx-Utilities">Regex Utilities</a></th>
