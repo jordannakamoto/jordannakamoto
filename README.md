@@ -1,6 +1,8 @@
 ### I'm Jordan, an aspiring Software Developer from the California Coast.✌️
 I enjoy the pursuit of life-long learning and the appreciation of design and engineering.
 
+
+
 ![Screenshot 2024-01-06 at 7 22 41 PM(1)](https://github.com/jordannakamoto/jordannakamoto/assets/18277544/3767179e-de6f-4b7c-a176-d2d73c66f6f3)
 
 ## - 🔭 Recent Portfolio
@@ -61,4 +63,8 @@ I enjoy the pursuit of life-long learning and the appreciation of design and eng
 
 ## My LeetCode Journey
 ![](https://leetcard.jacoblin.cool/jordannakamoto?theme=light)
+
+## Get In Touch!
+[![linkedin](https://linkedin-github-readme.onrender.com/api/render/Jordan%20Nakamoto/Software%20Developer/⠀/Sonoma%20State%20University%20(Fall%202024)/light/https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2FD5603AQFj7bba9sNopw%2Fprofile-displayphoto-shrink_400_400%2F0%2F1700787242593%3Fe%3D1711584000%26v%3Dbeta%26t%3DRVcMsWY-sZpDnIyAz143i_NKv85dzRuScyf6pRHlALM)](https://www.linkedin.com/in/jordan-nakamoto111/)
+
 
