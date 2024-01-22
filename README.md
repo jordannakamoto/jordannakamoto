@@ -54,12 +54,13 @@ I enjoy the pursuit of life-long learning and the appreciation of design and eng
 <code><a href = "https://www.w3schools.com/sql/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></a></code>
 <code><a href = "https://firebase.google.com/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></a></code>
 <code><a href = "https://www.gnu.org/software/bash/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></a></code>
-<code><a href = "https://git-scm.com/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></a></code>
 <code><a href = "https://www.python.org/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></a></code>
 <code><a href="https://www.adobe.com/products/photoshop.html"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="Photoshop"></a></code>
 <code><a href="https://www.canva.com/"><img height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRE7lpPMmzGlDtwwQnTEb99Fd2qtGMkU70nZHUAQRouWg&s" alt="Canva"></a></code><code><a href = "https://www.adobe.com/in/products/illustrator.html"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/616px-Adobe_Illustrator_CC_icon.svg.png"></a></code>
 <code><a href="https://www.diagrams.net/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Diagrams.net_Logo.svg/800px-Diagrams.net_Logo.svg.png" alt="draw.io"></a></code>
-</p>
+<code><a href="https://tauri.app"><img height="40" src="https://cdn.worldvectorlogo.com/logos/tauri-1.svg" alt="tauri"></a></code>
+
+
 
 ## My LeetCode Journey
 ![](https://leetcard.jacoblin.cool/jordannakamoto?theme=light)
