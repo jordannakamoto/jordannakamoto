@@ -33,7 +33,7 @@ I enjoy the pursuit of life-long learning and the appreciation of design and eng
   </tr>
   <tr>
     <td>Automate webscraping and filling out recommended SEO updates for an agency</td>
-    <td>Code implemenetation to workflow automation based on client needs</td>
+    <td>Code implemenetation of workflow automation based on client needs</td>
     <td><a href="https://github.com/jordannakamoto/roboseo">SEO Updater</a></td>
 	  
   </tr>
