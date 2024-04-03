@@ -13,10 +13,28 @@ I enjoy the pursuit of life-long learning and the appreciation of design and eng
     <th>My Contribution</th>
     <th>Project</th>
   </tr>
+<tr>
+    <td>Rover Control Panel for University NASA Competition: RaspberryPi, Flask, React</td>
+    <td>Video Stream Monitor, Motor Control API</td>
+    <td><a href="https://github.com/jordannakamoto/ssunasarover">SSU Lunabotics</a></td>
+	
+  </tr>
   <tr>
-    <td>Desktop App in Tauri and NextJS. For tracking assignments during a school semester.</td>
-    <td>Current Project</td>
-    <td><a href="https://github.com/jordannakamoto/productivity-app">Assignments Tracker</a></td>
+    <td>CLI for controlling open Safari Tabs/searching History.</td>
+    <td>Personal Project</td>
+    <td><a href="https://github.com/jordannakamoto/safari-tabs-cli">safari-tabs-cli</a></td>
+	  
+  </tr>
+  <tr>
+    <td>Interpreter for a C-Like Language</td>
+    <td>Project Organization, Concrete Syntax Tree, Recursive Descent Parser</td>
+    <td><a href="https://github.com/jordannakamoto/460interpreter">Interpreter</a></td>
+	  
+  </tr>
+  <tr>
+    <td>Automate webscraping and filling out recommended SEO updates for an agency</td>
+    <td>Code implemenetation to workflow automation based on client needs</td>
+    <td><a href="https://github.com/jordannakamoto/roboseo">SEO Updater</a></td>
 	  
   </tr>
   <tr>
@@ -30,12 +48,7 @@ I enjoy the pursuit of life-long learning and the appreciation of design and eng
     <td>Environment Creation, Inventory and Interaction Systems Programming</td>
     <td><a href="https://www.youtube.com/watch?v=XkhGd5Hyg9E">Untold Territory</a></td>
   </tr>
-<tr>
-    <td>3D UI and Control Interface</td>
-    <td>Space Rover for University NASA Competition: RaspberryPi, Flask, React, ThreeJS</td>
-    <td><a href="https://github.com/jordannakamoto/ssunasarover">SSU Lunabotics</a></td>
-	
-  </tr>
+
 </table>
 
 
