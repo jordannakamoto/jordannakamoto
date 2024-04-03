@@ -9,29 +9,32 @@ I enjoy the pursuit of life-long learning and the appreciation of design and eng
 
 <table>
 <tr>
+    <th>Summary</th>
+    <th>My Contribution</th>
     <th>Project</th>
-    <td>My Contribution</td>
-    <td>Summary</td>
   </tr>
   <tr>
-    <th><a href="https://github.com/jordannakamoto/productivity-app">Assignments Tracker</a></th>
-    <td>Current Project</td>
     <td>Desktop App in Tauri and NextJS. For tracking assignments during a school semester.</td>
+    <td>Current Project</td>
+    <td><a href="https://github.com/jordannakamoto/productivity-app">Assignments Tracker</a></td>
+	  
   </tr>
   <tr>
-    <th><a href="https://github.com/jordannakamoto/RegEx-Utilities">Regex Utilities</a></th>
-    <td>Conversion and Testing Code</td>
     <td>Final Project for my Theory of Computation Class, Regular Expression string testing for pattern recognition/validation in Python</td>
+    <td>Conversion and Testing Code</td>
+    <td><a href="https://github.com/jordannakamoto/RegEx-Utilities">Regex Utilities</a></td>
+	  
   </tr>
 <tr>
-    <th><a href="https://www.youtube.com/watch?v=XkhGd5Hyg9E">Untold Territory</a></th>
-    <td>Environment Creation, Inventory and Interaction Systems Programming</td>
     <td>3D Exploration/Adventure game in Unreal Engine 5. Set on a Treasure Island.</td>
+    <td>Environment Creation, Inventory and Interaction Systems Programming</td>
+    <td><a href="https://www.youtube.com/watch?v=XkhGd5Hyg9E">Untold Territory</a></td>
   </tr>
 <tr>
-    <th><a href="https://github.com/jordannakamoto/ssunasarover">SSU Lunabotics</a></th>
     <td>3D UI and Control Interface</td>
     <td>Space Rover for University NASA Competition: RaspberryPi, Flask, React, ThreeJS</td>
+    <td><a href="https://github.com/jordannakamoto/ssunasarover">SSU Lunabotics</a></td>
+	
   </tr>
 </table>
 
