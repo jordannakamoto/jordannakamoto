@@ -14,8 +14,8 @@ I enjoy the pursuit of life-long learning and the appreciation of design and eng
     <th>Project</th>
   </tr>
 <tr>
-    <td>Rover Control Panel for University NASA Competition: RaspberryPi, Flask, React</td>
-    <td>Video Stream Monitor, Motor Control API</td>
+    <td>University NASA Lunabotics Competition: RaspberryPi, Flask, React</td>
+    <td>Motor Control API, Video Stream Monitor</td>
     <td><a href="https://github.com/jordannakamoto/ssunasarover">SSU Lunabotics</a></td>
 	
   </tr>
