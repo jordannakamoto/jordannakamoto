@@ -77,7 +77,9 @@ I enjoy the pursuit of life-long learning and the appreciation of design and eng
 <code><a href="https://tauri.app"><img height="40" src="https://cdn.worldvectorlogo.com/logos/tauri-1.svg" alt="tauri"></a></code>
 
 
-
 ## My LeetCode Journey
+ ![](https://leetcard.jacoblin.cool/jordannakamoto?theme=light)
+ 
+## Get in Touch!
 [https://www.linkedin.com/in/jordan-nakamoto111/](https://www.linkedin.com/in/jordan-nakamoto111/)
 
