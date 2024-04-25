@@ -79,7 +79,4 @@ I enjoy the pursuit of life-long learning and the appreciation of design and eng
 
 ## My LeetCode Journey
  ![](https://leetcard.jacoblin.cool/jordannakamoto?theme=light)
- 
-## Get in Touch!
-[https://www.linkedin.com/in/jordan-nakamoto111/](https://www.linkedin.com/in/jordan-nakamoto111/)
 
