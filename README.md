@@ -20,12 +20,6 @@ I enjoy the pursuit of life-long learning and the appreciation of design and eng
 	
   </tr>
   <tr>
-    <td>CLI for controlling open Safari Tabs/searching History.</td>
-    <td>Personal Project</td>
-    <td><a href="https://github.com/jordannakamoto/safari-tabs-cli">safari-tabs-cli</a></td>
-	  
-  </tr>
-  <tr>
     <td>Interpreter for a C-Like Language</td>
     <td>Project Organization, Concrete Syntax Tree, Recursive Descent Parser</td>
     <td><a href="https://github.com/jordannakamoto/460interpreter">Interpreter</a></td>
@@ -41,6 +35,12 @@ I enjoy the pursuit of life-long learning and the appreciation of design and eng
     <td>Final Project for my Theory of Computation Class, Regular Expression string testing for pattern recognition/validation in Python</td>
     <td>Conversion and Testing Code</td>
     <td><a href="https://github.com/jordannakamoto/RegEx-Utilities">Regex Utilities</a></td>
+	  
+  </tr>
+    <tr>
+    <td>CLI for controlling open Safari Tabs/searching History.</td>
+    <td>Personal Project</td>
+    <td><a href="https://github.com/jordannakamoto/safari-tabs-cli">safari-tabs-cli</a></td>
 	  
   </tr>
 <tr>
