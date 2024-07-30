@@ -20,8 +20,8 @@ I enjoy the pursuit of life-long learning and the appreciation of design and eng
 	
   </tr>
   <tr>
-    <td>Interpreter for a C-Like Language</td>
-    <td>Project Organization, Concrete Syntax Tree, Recursive Descent Parser</td>
+    <td>Interpreter for a C-Like Language. Hosted on cspotato.com</td>
+    <td>Project Organization, Web App, Concrete Syntax Tree, Recursive Descent Parser</td>
     <td><a href="https://github.com/jordannakamoto/460interpreter">Interpreter</a></td>
 	  
   </tr>
