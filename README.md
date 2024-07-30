@@ -15,7 +15,7 @@ I enjoy the pursuit of life-long learning and the appreciation of design and eng
   </tr>
 <tr>
     <td>University NASA Lunabotics Competition: RaspberryPi, Linux, Flask, React</td>
-    <td>Motor Control API, Video Stream Monitor</td>
+    <td>Motor Control, Video Stream Monitor</td>
     <td><a href="https://github.com/jordannakamoto/ssunasarover">SSU Lunabotics</a></td>
 	
   </tr>
