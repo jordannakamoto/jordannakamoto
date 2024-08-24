@@ -7,49 +7,17 @@ Pursuing life-long learning and the appreciation of design and engineering.
 
 ## - 🔭 Recent Portfolio
 
-<table>
-<tr>
-    <th>Summary</th>
-    <th>My Contribution</th>
-    <th>Project</th>
-  </tr>
-<tr>
-    <td>University NASA Lunabotics Competition: RaspberryPi, Linux, Flask, React</td>
-    <td>Motor Control, Video Stream Monitor</td>
-    <td><a href="https://github.com/jordannakamoto/ssunasarover">SSU Lunabotics</a></td>
-	
-  </tr>
-  <tr>
-    <td>Interpreter for a C-Like Language. Hosted on cspotato.com</td>
-    <td>Project Organization, Web App, Concrete Syntax Tree, Recursive Descent Parser</td>
-    <td><a href="https://github.com/jordannakamoto/460interpreter">Interpreter</a></td>
-	  
-  </tr>
-  <tr>
-    <td>Automate webscraping and filling out recommended SEO updates for an agency</td>
-    <td>Code implemenetation of workflow automation based on client needs</td>
-    <td><a href="https://github.com/jordannakamoto/roboseo">SEO Updater</a></td>
-	  
-  </tr>
-  <tr>
-    <td>Final Project for my Theory of Computation Class, Regular Expression string testing for pattern recognition/validation in Python</td>
-    <td>Conversion and Testing Code</td>
-    <td><a href="https://github.com/jordannakamoto/RegEx-Utilities">Regex Utilities</a></td>
-	  
-  </tr>
-    <tr>
-    <td>CLI for controlling open Safari Tabs/searching History.</td>
-    <td>Personal Project</td>
-    <td><a href="https://github.com/jordannakamoto/safari-tabs-cli">safari-tabs-cli</a></td>
-	  
-  </tr>
-<tr>
-    <td>3D Exploration/Adventure game in Unreal Engine 5. Set on a Treasure Island.</td>
-    <td>Environment Creation, Inventory and Interaction Systems Programming</td>
-    <td><a href="https://www.youtube.com/watch?v=XkhGd5Hyg9E">Untold Territory</a></td>
-  </tr>
+<p>During my time at university, I participated in the <strong>NASA Lunabotics Competition</strong> where I worked on a rover project named <a href="https://github.com/jordannakamoto/ssunasarover">SSU Lunabotics</a>. My primary contributions included <strong>motor control</strong> and <strong>video stream monitoring</strong> using technologies such as <strong>Raspberry Pi</strong>, <strong>Linux</strong>, <strong>Flask</strong>, and <strong>React</strong>. This experience honed my skills in hardware integration and real-time monitoring.</p>
 
-</table>
+<p>I also developed an <strong>Interpreter for a C-like Language</strong>, hosted on <a href="https://github.com/jordannakamoto/460interpreter">cspotato.com</a>. This project involved creating a <strong>concrete syntax tree</strong> and implementing a <strong>recursive descent parser</strong>. My role focused on <strong>project organization</strong> and building a <strong>web app</strong> to make the interpreter accessible online.</p>
+
+<p>For a client at an agency, I automated web scraping and filled out recommended SEO updates using a tool I created called <a href="https://github.com/jordannakamoto/roboseo">SEO Updater</a>. This project required a deep understanding of web workflows and automation based on specific client needs.</p>
+
+<p>As part of my <strong>Theory of Computation</strong> class, I completed a final project involving <strong>regular expression string testing</strong> for pattern recognition and validation in Python, which you can find on <a href="https://github.com/jordannakamoto/RegEx-Utilities">GitHub</a>. My responsibilities included the <strong>conversion</strong> and <strong>testing code</strong> necessary to ensure accurate pattern matching.</p>
+
+<p>In a personal project, I developed a <strong>CLI tool for controlling open Safari tabs and searching history</strong>, named <a href="https://github.com/jordannakamoto/safari-tabs-cli">safari-tabs-cli</a>. This project allowed me to streamline my workflow and manage browser activities more efficiently through the command line.</p>
+
+<p>Finally, I worked on a 3D exploration/adventure game set on a treasure island, titled <strong>Untold Territory</strong>, which is available to view on <a href="https://www.youtube.com/watch?v=XkhGd5Hyg9E">YouTube</a>. My role in this project involved <strong>environment creation</strong> and programming <strong>inventory and interaction systems</strong> within <strong>Unreal Engine 5</strong>. This game development experience significantly expanded my understanding of 3D environments and interactive design.</p>
 
 
 ## - 📚 Some of the Libraries/Languages I Work With
