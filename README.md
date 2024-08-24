@@ -13,7 +13,7 @@ Pursuing life-long learning and the appreciation of design and engineering.
 
 <p>For a client at an agency, I automated web scraping and filled out recommended SEO updates using a tool I created called <a href="https://github.com/jordannakamoto/roboseo">SEO Updater</a>. This project required a deep understanding of web workflows and automation based on specific client needs.</p>
 
-<p>As part of my <strong>Theory of Computation</strong> class, I completed a final project involving <strong>regular expression string testing</strong> for pattern recognition and validation in Python, which you can find on <a href="https://github.com/jordannakamoto/RegEx-Utilities">GitHub</a>. My responsibilities included the <strong>conversion</strong> and <strong>testing code</strong> necessary to ensure accurate pattern matching.</p>
+<p>As part of my <strong>Theory of Computation</strong> class, I completed a final project involving <strong>regular expression string testing</strong> for pattern recognition and validation in Python, which you can find <a href="https://github.com/jordannakamoto/RegEx-Utilities">here</a>. My responsibilities included the <strong>conversion</strong> and <strong>testing code</strong> necessary to ensure accurate pattern matching.</p>
 
 <p>In a personal project, I developed a <strong>CLI tool for controlling open Safari tabs and searching history</strong>, named <a href="https://github.com/jordannakamoto/safari-tabs-cli">safari-tabs-cli</a>. This project allowed me to streamline my workflow and manage browser activities more efficiently through the command line.</p>
 
