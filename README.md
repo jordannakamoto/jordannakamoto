@@ -9,15 +9,11 @@ Pursuing life-long learning and the appreciation of design and engineering.
 
 <p>During my time at university, I participated in the <strong>NASA Lunabotics Competition</strong> where I worked on a rover project named <a href="https://github.com/jordannakamoto/ssunasarover">SSU Lunabotics</a>. My primary contributions included <strong>motor control</strong> and <strong>video stream monitoring</strong> using technologies such as <strong>Raspberry Pi</strong>, <strong>Linux</strong>, <strong>Video Streaming</strong>, and <strong>Motor Control Boards</strong>.</p>
 
-<p>I also developed an <strong>Interpreter for a C-like Language</strong>, hosted on <a href="https://cspotato.com">cspotato.com</a>. This project involved creating a <strong>concrete syntax tree</strong> and implementing a <strong>recursive descent parser</strong>. My role focused on <strong>solution design/project organization</strong> and building a <strong>web app</strong> to make the interpreter accessible online.</p>
+<p>I also developed an <strong>Interpreter for a C-like Language</strong>, hosted on <a href="https://cspotato.com">cspotato.com</a>. </p>
 
-<p>For a client at an agency, I automated web scraping and filled out recommended SEO updates using a tool I created called <a href="https://github.com/jordannakamoto/roboseo">SEO Updater</a>. This project required desinging a multi-stage processing back/front-end based on specific client needs including retrieving, filtering, and editing data from multiple sources.</p>
+<p>For a client I automated web scraping and filled out recommended SEO updates using a tool I created called <a href="https://github.com/jordannakamoto/roboseo">SEO Updater</a>.</p>
 
-<p>As part of my <strong>Theory of Computation</strong> class, I completed a final project involving <strong>regular expression string testing</strong> for pattern recognition and validation in Python, which you can find <a href="https://github.com/jordannakamoto/RegEx-Utilities">here</a>. My responsibilities included the <strong>conversion</strong> and <strong>testing and cli code</strong>.</p>
-
-<p>In a personal project, I developed a <strong>CLI tool for controlling open Safari tabs and searching history</strong>, named <a href="https://github.com/jordannakamoto/safari-tabs-cli">safari-tabs-cli</a>. This project allowed me to streamline my workflow and manage browser activities more efficiently through the command line.</p>
-
-<p>Finally, I worked on a 3D exploration/adventure game set on a treasure island, titled <strong>Untold Territory</strong>, which is available to view on <a href="https://www.youtube.com/watch?v=XkhGd5Hyg9E">YouTube</a>. My role in this project involved <strong>environment creation</strong> and programming <strong>inventory and interaction systems</strong> within <strong>Unreal Engine 5</strong>. This game development experience significantly expanded my understanding of 3D computer graphics and interactive design.</p>
+<p>As part of my <strong>Theory of Computation</strong> class, I completed a final project involving <strong>regular expression string testing</strong> for pattern recognition and validation in Python, which you can find <a href="https://github.com/jordannakamoto/RegEx-Utilities">here</a>.</p>
 
 
 ## - 📚 Some of the Libraries/Languages I Work With
