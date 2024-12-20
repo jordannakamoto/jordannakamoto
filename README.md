@@ -7,7 +7,7 @@ Pursuing life-long learning and the appreciation of design and engineering.
 
 ## - 🔭 Recent Portfolio
 
-<p>During my time at university, I participated in the <strong>NASA Lunabotics Competition</strong> where I worked on a rover project named <a href="https://github.com/jordannakamoto/ssunasarover">SSU Lunabotics</a> (repo not updated lol). As the lead programmer and lab co-manager I created systems for an NVIDIA Jetson, Arduino robot running ROS2, including many test systems on Raspberry Pi and other Linux-based experiments.
+<p>During my time at university, I participated in the <strong>NASA Lunabotics Competition</strong> where I worked on a rover project named <a href="https://github.com/jordannakamoto/ssunasarover">SSU Lunabotics</a> (repo not updated lol). As the lab co-manager I created systems for an NVIDIA Jetson, Arduino robot running ROS2, including many test systems on Raspberry Pi and other Linux-based experiments.
 
 <p>I also developed an <strong>Interpreter for a C-like Language</strong>, hosted on <a href="https://cspotato.com">cspotato.com</a>. </p>
 
