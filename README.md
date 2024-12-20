@@ -5,16 +5,6 @@ Pursuing life-long learning and the appreciation of design and engineering.
 
 ![Screenshot 2024-01-06 at 7 22 41 PM(1)](https://github.com/jordannakamoto/jordannakamoto/assets/18277544/3767179e-de6f-4b7c-a176-d2d73c66f6f3)
 
-## - 🔭 Recent Portfolio
-
-<p>During my time at university, I participated in the <strong>NASA Lunabotics Competition</strong> where I worked on a rover project named <a href="https://github.com/jordannakamoto/ssunasarover">SSU Lunabotics</a> (repo not updated lol). As the lab co-manager I created systems for an NVIDIA Jetson, Arduino robot running ROS2, including many test systems on Raspberry Pi and other Linux-based experiments.
-
-<p>I also developed an <strong>Interpreter for a C-like Language</strong>, hosted on <a href="https://cspotato.com">cspotato.com</a>. </p>
-
-<p>For a client I automated web scraping and filled out recommended SEO updates using a tool I created called <a href="https://github.com/jordannakamoto/roboseo">SEO Updater</a>.</p>
-
-<p>As part of my <strong>Theory of Computation</strong> class, I completed a final project involving <strong>regular expression string testing</strong> for pattern recognition and validation in Python, which you can find <a href="https://github.com/jordannakamoto/RegEx-Utilities">here</a>.</p>
-
 
 ## - 📚 Some of the Libraries/Languages I Work With
 <p> 
