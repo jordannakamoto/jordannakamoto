@@ -6,7 +6,7 @@ Pursuing life-long learning and the appreciation of design and engineering.
 ![Screenshot 2024-01-06 at 7 22 41 PM(1)](https://github.com/jordannakamoto/jordannakamoto/assets/18277544/3767179e-de6f-4b7c-a176-d2d73c66f6f3)
 
 
-## - 📚 Some of the Libraries/Languages I Work With
+## - 📚
 <p> 
 <code><a href="https://reactnative.dev/"><img width="40" src="https://upload.wikimedia.org/wikipedia/commons/1/18/React_Native_Logo.png" alt="React Native"></a></code>
 <!-- <code><a href="https://graphql.org/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg" alt="GraphQL"></a></code> -->
@@ -19,7 +19,7 @@ Pursuing life-long learning and the appreciation of design and engineering.
 <!-- <code><a href="https://www.unrealengine.com/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Unreal_Engine_Logo.svg/1024px-Unreal_Engine_Logo.svg.png" alt="Unreal Engine"></a></code> -->
 <code><a href="https://www.iso.org/standard/74528.html"><img height="40" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="C++"></a></code>
 <!-- <code><a href="https://threejs.org/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Three.js_Icon.svg/1024px-Three.js_Icon.svg.png" alt="Three.js"></a></code> -->
-	<br>
+
 <code><a href="https://www.openai.com/"><img width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/OpenAI_Logo.svg/1024px-OpenAI_Logo.svg.png" alt="OpenAI"></a></code>
 <!-- <code><a href = "https://www.w3schools.com/sql/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></a></code> -->
 <!-- <code><a href = "https://firebase.google.com/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></a></code> -->
