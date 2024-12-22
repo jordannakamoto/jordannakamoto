@@ -30,7 +30,3 @@ Pursuing life-long learning and the appreciation of design and engineering.
 <code><a href="https://www.diagrams.net/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Diagrams.net_Logo.svg/800px-Diagrams.net_Logo.svg.png" alt="draw.io"></a></code>
 <code><a href="https://tauri.app"><img height="40" src="https://cdn.worldvectorlogo.com/logos/tauri-1.svg" alt="tauri"></a></code>
 
-
-## My LeetCode Journey
- ![](https://leetcard.jacoblin.cool/jordannakamoto?theme=light)
-
