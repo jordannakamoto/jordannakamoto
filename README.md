@@ -12,7 +12,7 @@ Pursuing life-long learning and the appreciation of design and engineering.
 <code><a href = "https://code.visualstudio.com/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png"></a></code>
 <code><a href="https://www.diagrams.net/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Diagrams.net_Logo.svg/800px-Diagrams.net_Logo.svg.png" alt="draw.io"></a></code>
 <code><a href="https://www.iso.org/standard/74528.html"><img height="40" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="C++"></a></code>
-<code><a href = "https://www.gnu.org/software/bash/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></a></code>
+<code><a href = "https://www.gnu.org/software/bash/"><img height="40" src="https://play-lh.googleusercontent.com/ruU_HxL8eCRG1yIEHc99ntjGKYOufF5FGDNunSOiKa7b-U9DQuc26EX7PwizMuOZuQ"></a></code>
 <code><a href = "https://www.python.org/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></a></code>
 
 
