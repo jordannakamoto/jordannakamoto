@@ -6,7 +6,6 @@ Pursuing life-long learning and the appreciation of design and engineering.
 ![Screenshot 2024-01-06 at 7 22 41 PM(1)](https://github.com/jordannakamoto/jordannakamoto/assets/18277544/3767179e-de6f-4b7c-a176-d2d73c66f6f3)
 
 
-## - 📚
 <p> 
 <code><a href="https://reactnative.dev/"><img width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFi4_-9fNmkOc4nkBq6YLPG8higxuZsBuXGQ&s" alt="React"></a></code>
 <code><a href = "https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></a></code>
