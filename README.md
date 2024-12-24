@@ -16,7 +16,9 @@ Pursuing life-long learning and the appreciation of design and engineering.
 <code><a href = "https://www.python.org/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></a></code>
 
 
-<code><a href = "https://github.com/zakirullin/cognitive-load "> Article on Cognitive Load </a></code>
+<code><a href = "https://github.com/zakirullin/cognitive-load "> Article on Cognitive Load in Coding </a></code>
+<code><a href = "https://github.com/plasma-umass/scalene "> Scalene Python Profiler </a></code>
+
 <!-- <code><a href="https://graphql.org/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg" alt="GraphQL"></a></code> -->
 <!-- <code><a href="https://nextjs.org/"><img width="40" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="Next.js"></a></code> -->
 <!-- <code><a href="https://expressjs.com/"><img width="40" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express.js"></a></code> -->
