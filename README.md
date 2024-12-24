@@ -17,7 +17,7 @@ Pursuing life-long learning and the appreciation of design and engineering.
 <code><a href = "https://developer.apple.com/swift/"><img height="40" src="https://developer.apple.com/swift/images/swift-og.png"></a></code>
 
 
-Cool Links I've Found:
+Cool Links I've Found:  
 <code><a href = "https://github.com/zakirullin/cognitive-load "> Article on Cognitive Load in Coding </a></code>
 <code><a href = "https://github.com/plasma-umass/scalene "> Scalene Python Profiler </a></code>
 
