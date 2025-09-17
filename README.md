@@ -1,4 +1,4 @@
-### I'm Jordan, an aspiring Software Developer from the California Coast.✌️
+### I'm Jordan, a Software Developer from the California Coast.✌️
 Pursuing life-long learning and the appreciation of design and engineering.
 
 
