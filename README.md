@@ -1,5 +1,4 @@
-### I'm Jordan, a Software Developer from the California Coast.✌️
-Pursuing life-long learning and the appreciation of design and engineering.
+### I'm Jordan, a Software Developer living in Portland, Oregon.✌️
 
 
 
